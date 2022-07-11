@@ -1,4 +1,4 @@
-Python==3.6.0
+Python==3.6.10
 Flask==1.1.1
 numpy
 keras==2.4.3
